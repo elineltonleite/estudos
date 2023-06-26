@@ -1,0 +1,2 @@
+# estudos
+aprender novas técnologias
